@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "project latihan",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansansansansansansansan/BackendNodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "author": "Ahmad Insan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansansansansansansansan/BackendNodeJS/issues"
+  },
+  "homepage": "https://github.com/sansansansansansansansan/BackendNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
